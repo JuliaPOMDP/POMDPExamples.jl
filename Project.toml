@@ -1,0 +1,6 @@
+authors = ["Zachary Sunberg <sunbergzach@gmail.com>"]
+name = "POMDPExamples"
+uuid = "19997998-72f7-5bc0-8785-5c1b24de3590"
+version = "0.1.0"
+
+[deps]
