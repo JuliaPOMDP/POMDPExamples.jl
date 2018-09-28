@@ -1,8 +1,9 @@
 using NBInclude
 using Test
 
+projdir = joinpath(dirname(@__FILE__()), "..")
+
 @testset "notebooks" begin
-    projdir = joinpath(dirname(@__FILE__()), "..")
     for d in readdir(joinpath(projdir, "notebooks"))
         if endswith(d, ".ipynb")
             path = joinpath(projdir, "notebooks", d)
