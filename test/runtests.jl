@@ -1,10 +1,16 @@
-using POMDPExamples
-using Test
 using NBInclude
+using Test
 
-# Test that all the notebooks run
-notebooks_path = joinpath(dirname(pathof(POMDPExamples)), "notebooks")
-
-@testset "explicit interface" begin 
-    @nbinclude(joinpath(notebooks_path, "Defining-a-POMDP-with-the-Explicit-Interface.ipynb"))
+@testset "notebooks" begin
+    projdir = joinpath(dirname(@__FILE__()), "..")
+    for d in readdir(joinpath(projdir, "notebooks"))
+        if endswith(d, ".ipynb")
+            path = joinpath(projdir, "notebooks", d)
+            @info("Running "*path)
+            stuff = "using NBInclude; @nbinclude(\"" * path * "\")"
+            cmd = `julia --project=$projdir -e $stuff`
+            proc = run(pipeline(cmd, stderr=stderr), wait=false)
+            @test success(proc)
+        end
+    end
 end
