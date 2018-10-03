@@ -8,5 +8,5 @@ This is a repository of examples and tutorials for learning how to use the POMDP
 
 Each tutorial is a notebook in the notebooks directory. Here is a list:
 
-- [Defining a POMDP with the Explicit Interface](Defining-a-POMDP-with-the-Explicit-Interface.ipynb)
+- [Defining a POMDP with the Explicit Interface](notebooks/Defining-a-POMDP-with-the-Explicit-Interface.ipynb)
 - [Defining a POMDP with the Generative Interface](notebooks/Defining-a-POMDP-with-the-Generative-Interface.ipynb)
