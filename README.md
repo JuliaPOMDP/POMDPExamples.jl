@@ -14,7 +14,7 @@ Each tutorial is a notebook in the notebooks directory. Here is a list:
 
 ## Legacy tutorials
 
-There are also several tutorials contained in the [legacy folder](legacy) which have not been updated since julia 0.6, but may nevertheless be useful.
+There are also several tutorials contained in the [legacy folder](legacy) which are not tested and may not be up to date, but may nevertheless be useful.
 
 - [GridWorld](legacy/GridWorld.ipynb)
 - [Tiger](legacy/Tiger.ipynb)
