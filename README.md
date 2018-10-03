@@ -19,3 +19,7 @@ There are also several tutorials contained in the [legacy folder](legacy) which 
 - [GridWorld](legacy/GridWorld.ipynb)
 - [Tiger](legacy/Tiger.ipynb)
 - [RL](legacy/rl-tuto/reinforcement_learning_tutorial.ipynb)
+
+## AA228 Notebooks
+
+Some additional notebooks created for Stanford's AA-228 course may be found at https://github.com/sisl/aa228-notebook
