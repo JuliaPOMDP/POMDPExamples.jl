@@ -10,6 +10,7 @@ Each tutorial is a notebook in the notebooks directory. Here is a list:
 
 - [Defining a POMDP with the Explicit Interface](notebooks/Defining-a-POMDP-with-the-Explicit-Interface.ipynb)
 - [Defining a POMDP with the Generative Interface](notebooks/Defining-a-POMDP-with-the-Generative-Interface.ipynb)
+- [Defining a tabular POMDP (using transition, observation, and reward matrices)](notebooks/Defining-a-tabular-POMDP.ipynb)
 - [Running Simulations](notebooks/Running-Simulations.ipynb)
 
 ## Legacy tutorials
