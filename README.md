@@ -11,6 +11,9 @@ Each tutorial is a notebook in the notebooks directory. Here is a list:
 - [Defining a POMDP with the Explicit Interface](notebooks/Defining-a-POMDP-with-the-Explicit-Interface.ipynb)
 - [Defining a POMDP with the Generative Interface](notebooks/Defining-a-POMDP-with-the-Generative-Interface.ipynb)
 - [Running Simulations](notebooks/Running-Simulations.ipynb)
+- [Using an Offline Solver](notebooks/Using-an-Offline-Solver.ipynb)
+- [Using an Online Solver](notebooks/Using-an-Online-Solver.ipynb)
+- [Defining a Heuristic Policy](notebooks/Defining-a-Heuristic-Policy.ipynb)
 
 ## Legacy tutorials
 
