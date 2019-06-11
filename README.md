@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/JuliaPOMDP/POMDPExamples.jl.svg?branch=master)](https://travis-ci.org/JuliaPOMDP/POMDPExamples.jl)
 
-This is a repository of examples and tutorials for learning how to use the POMDPs.jl package.
+This is a repository of examples and tutorials for learning how to use the POMDPs.jl package. See also [QuickPOMDPs.jl](https://github.com/JuliaPOMDP/QuickPOMDPs.jl) for a simplified interface for defining small or medium discrete problems.
 
 ## Tutorials
 
@@ -10,6 +10,7 @@ Each tutorial is a notebook in the notebooks directory. Here is a list:
 
 - [Defining a POMDP with the Explicit Interface](notebooks/Defining-a-POMDP-with-the-Explicit-Interface.ipynb)
 - [Defining a POMDP with the Generative Interface](notebooks/Defining-a-POMDP-with-the-Generative-Interface.ipynb)
+- [Defining a POMDP with Probability Tables](https://github.com/JuliaPOMDP/POMDPExamples.jl/blob/master/notebooks/Defining-a-tabular-POMDP.ipynb)
 - [Running Simulations](notebooks/Running-Simulations.ipynb)
 - [Using an Offline Solver](notebooks/Using-an-Offline-Solver.ipynb)
 - [Using an Online Solver](notebooks/Using-an-Online-Solver.ipynb)
