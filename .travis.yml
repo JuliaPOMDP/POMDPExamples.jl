@@ -6,7 +6,6 @@ julia:
 os:
   - linux
   - osx
-  - windows
 
 notifications:
   email:
