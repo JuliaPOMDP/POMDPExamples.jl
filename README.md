@@ -15,12 +15,12 @@ Each tutorial is a notebook in the notebooks directory. Here is a list:
 - [Using an Offline Solver](notebooks/Using-an-Offline-Solver.ipynb)
 - [Using an Online Solver](notebooks/Using-an-Online-Solver.ipynb)
 - [Defining a Heuristic Policy](notebooks/Defining-a-Heuristic-Policy.ipynb)
+- [Defining MDP of gridWorld and using VI and MCTS to find solutions](notebooks/GridWorld.ipynb)
 
 ## Legacy tutorials
 
 There are also several tutorials contained in the [legacy folder](legacy) which are not tested and may not be up to date, but may nevertheless be useful.
 
-- [GridWorld](legacy/GridWorld.ipynb)
 - [Tiger](legacy/Tiger.ipynb)
 - [RL](legacy/rl-tuto/reinforcement_learning_tutorial.ipynb)
 
