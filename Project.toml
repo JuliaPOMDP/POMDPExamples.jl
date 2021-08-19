@@ -21,7 +21,11 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
 [compat]
 BeliefUpdaters = "0.2"
+DiscreteValueIteration = "0.4"
+FIB = "0.4"
+POMDPModels = "0.4"
 POMDPs = "0.9"
+ParticleFilters = "0.5"
 julia = "1"
 
 [extras]
