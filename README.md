@@ -2,6 +2,12 @@
 
 [![Build Status](https://travis-ci.org/JuliaPOMDP/POMDPExamples.jl.svg?branch=master)](https://travis-ci.org/JuliaPOMDP/POMDPExamples.jl)
 
+**THIS REPOSITORY IS NO LONGER MAINTAINED**
+
+Most if not all examples have been moved to the [POMDPs.jl docs](https://juliapomdp.github.io/POMDPs.jl/stable/).
+
+---
+
 This is a repository of examples and tutorials for learning how to use the [POMDPs.jl package](https://github.com/JuliaPOMDP/POMDPs.jl) for working with Markov Decision Processes (MDPs) and Partially Observable Markov Decision Processes (POMDPs). See also [QuickPOMDPs.jl](https://github.com/JuliaPOMDP/QuickPOMDPs.jl) for a concise way to define problems.
 
 ## Tutorials
