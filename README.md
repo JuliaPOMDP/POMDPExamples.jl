@@ -4,7 +4,7 @@
 
 **THIS REPOSITORY IS NO LONGER MAINTAINED**
 
-Most if not all examples have been moved to the [POMDPs.jl docs](https://juliapomdp.github.io/POMDPs.jl/stable/).
+Most if not all examples have been moved to the [POMDPs.jl docs examples page](https://juliapomdp.github.io/POMDPs.jl/stable/examples).
 
 ---
 
